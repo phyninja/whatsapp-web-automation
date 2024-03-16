@@ -7,3 +7,4 @@ Functions available:
 2. Remove Contact from Group
 3. Set Contact as Group Admin
 4. Dismiss Contact as Group Admin
+5. Join Whatsapp group using an invite link
